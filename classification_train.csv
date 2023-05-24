@@ -1,0 +1,1001 @@
+Age,Gender,Income,Education level,Marital status,Past purchase history,Num past purchases,Buy a product
+37,,83000,high school,divorced,no,0,0
+56,male,75000,graduate,single,no,0,0
+58,,41000,graduate,divorced,yes,0,0
+27,male,41000,,married,no,0,1
+72,female,26000,high school,divorced,no,0,1
+58,male,46000,college,divorced,yes,5,0
+49,female,53000,high school,single,no,0,0
+,,44000,college,married,yes,4,1
+30,female,21000,college,,no,,1
+45,male,,high school,married,,0,1
+999,male,52000,high school,divorced,no,0,0
+44,female,,high school,divorced,no,0,0
+999,male,41000,high school,divorced,yes,2,1
+69,male,40000,high school,divorced,no,0,1
+24,male,99000,graduate,divorced,yes,2,0
+77,female,97000,graduate,married,yes,,1
+63,male,25000,high school,,no,0,0
+30,male,75000,high school,married,no,0,1
+67,male,56000,graduate,single,yes,1,0
+20,male,52000,high school,,no,0,1
+29,,53000,,divorced,yes,5,1
+39,female,51000,high school,married,yes,,1
+23,female,29000,college,married,yes,2,1
+18,male,81000,graduate,married,yes,4,0
+,male,49000,graduate,divorced,yes,0,0
+39,male,79000,college,married,no,0,0
+,male,50000,graduate,single,yes,3,1
+59,female,50000,,single,,2,0
+,female,89000,college,married,yes,2,1
+999,,45000,high school,single,yes,4,1
+75,female,48000,high school,single,no,0,1
+37,male,51000,college,married,no,0,0
+51,female,69000,graduate,divorced,yes,,1
+77,male,62000,high school,divorced,yes,0,1
+57,,33000,graduate,single,yes,0,1
+33,female,72000,high school,single,yes,3,0
+54,male,31000,high school,married,no,0,1
+19,male,24000,high school,divorced,yes,5,1
+19,male,84000,high school,divorced,no,,1
+999,male,74000,graduate,married,,0,0
+61,female,98000,graduate,single,no,0,1
+33,,54000,graduate,single,,0,0
+40,male,67000,high school,single,no,0,1
+57,male,31000,high school,divorced,yes,0,0
+37,female,85000,college,married,yes,5,1
+78,male,94000,graduate,divorced,yes,0,1
+76,,52000,college,divorced,no,0,1
+72,female,32000,high school,single,no,0,1
+43,male,74000,college,,yes,2,0
+20,male,66000,graduate,single,yes,1,0
+28,,97000,graduate,married,no,0,0
+62,male,26000,college,divorced,no,0,0
+79,male,75000,college,single,yes,3,1
+,male,39000,graduate,divorced,yes,5,0
+50,male,43000,high school,single,yes,2,1
+74,female,60000,high school,divorced,yes,3,0
+31,male,70000,high school,married,yes,,0
+78,female,94000,college,single,no,0,0
+40,,79000,high school,married,no,0,0
+56,female,28000,graduate,married,no,0,1
+49,female,71000,college,divorced,yes,4,1
+48,,23000,graduate,married,yes,1,0
+32,female,48000,high school,divorced,no,0,0
+18,female,,college,single,yes,4,1
+39,female,30000,graduate,married,no,,0
+24,female,28000,college,married,no,0,0
+50,male,54000,high school,married,no,0,1
+52,female,48000,graduate,married,no,0,1
+78,male,43000,graduate,single,,0,1
+50,female,38000,graduate,single,no,0,0
+32,male,68000,,married,yes,,1
+49,female,44000,graduate,single,yes,4,1
+32,,76000,college,single,no,0,0
+37,female,68000,college,divorced,no,0,0
+34,male,49000,college,single,yes,0,0
+24,female,91000,high school,,yes,3,0
+20,female,36000,high school,divorced,yes,1,1
+36,female,,,married,yes,3,1
+39,,40000,college,married,no,0,0
+73,male,55000,college,married,yes,2,1
+999,female,,college,divorced,yes,2,0
+,female,22000,college,divorced,no,0,1
+70,female,44000,high school,,no,0,1
+61,male,32000,graduate,,no,0,1
+28,,43000,high school,,yes,5,0
+25,female,43000,high school,married,no,0,1
+73,male,38000,college,divorced,no,0,1
+60,female,91000,high school,single,yes,5,1
+37,female,85000,high school,divorced,no,0,0
+39,male,52000,graduate,married,yes,1,0
+55,,68000,graduate,married,yes,,1
+24,female,76000,high school,single,yes,3,1
+,,,graduate,divorced,no,0,1
+40,female,62000,college,single,yes,4,0
+61,male,97000,college,divorced,no,0,0
+,female,99000,college,,no,,1
+,male,71000,high school,single,yes,0,0
+50,male,36000,high school,married,yes,5,0
+78,male,30000,graduate,single,no,0,1
+54,female,33000,graduate,single,no,0,1
+29,male,88000,college,single,yes,1,1
+19,male,73000,graduate,married,yes,5,1
+59,male,84000,graduate,,no,0,1
+70,female,56000,college,single,,,0
+44,female,39000,graduate,divorced,no,0,1
+55,,84000,college,single,yes,4,1
+59,male,,graduate,single,no,0,0
+79,female,96000,high school,single,,,0
+999,,82000,college,single,no,0,0
+57,male,80000,graduate,,yes,0,1
+35,female,45000,graduate,single,yes,3,0
+76,male,34000,college,married,yes,4,0
+50,male,51000,high school,single,,3,1
+71,male,89000,high school,single,no,0,1
+53,,73000,,married,no,0,1
+41,male,67000,,married,,0,0
+60,male,73000,college,,no,0,1
+47,male,98000,,single,no,0,0
+60,female,48000,college,divorced,no,0,1
+56,female,22000,graduate,divorced,,,1
+22,male,69000,college,,yes,5,1
+47,female,31000,college,,,5,1
+50,female,83000,graduate,,yes,3,0
+68,female,88000,high school,married,yes,,1
+39,male,39000,graduate,divorced,no,0,0
+45,female,,high school,single,no,0,1
+51,female,53000,high school,divorced,no,0,1
+58,,86000,graduate,married,yes,1,0
+45,,36000,,single,no,0,1
+49,male,33000,,single,yes,3,1
+52,female,92000,college,married,,0,1
+54,female,44000,high school,married,no,0,0
+18,female,83000,graduate,single,yes,0,0
+45,female,80000,graduate,single,,0,0
+29,male,69000,high school,single,no,0,0
+54,male,30000,graduate,single,yes,0,0
+69,male,88000,graduate,divorced,no,0,1
+70,female,37000,graduate,divorced,yes,5,1
+50,female,,,divorced,no,0,0
+72,male,100000,college,single,,0,0
+42,male,72000,graduate,single,no,0,1
+72,male,21000,college,single,yes,4,0
+67,female,21000,high school,single,no,,1
+43,male,27000,,married,,3,1
+32,female,72000,graduate,divorced,no,0,0
+59,male,89000,graduate,married,yes,3,0
+55,male,,college,married,,0,0
+24,,46000,graduate,divorced,yes,3,0
+,male,,high school,divorced,no,0,1
+75,female,96000,high school,single,yes,4,0
+23,male,23000,college,,yes,4,1
+25,male,59000,high school,,,,0
+22,male,36000,graduate,divorced,yes,,0
+34,female,100000,graduate,divorced,yes,4,1
+56,male,28000,graduate,divorced,,5,0
+27,male,24000,,married,yes,0,1
+74,female,62000,high school,divorced,no,,0
+66,female,46000,graduate,single,no,0,0
+65,male,35000,college,married,,0,0
+,male,88000,college,divorced,no,0,1
+,,87000,high school,married,no,0,1
+24,male,68000,high school,divorced,yes,2,0
+49,female,51000,college,divorced,no,0,0
+20,male,42000,high school,married,yes,0,0
+18,,89000,college,,yes,2,0
+33,female,27000,college,,no,0,1
+,,42000,,divorced,no,0,1
+66,male,52000,high school,married,yes,0,1
+33,male,71000,graduate,divorced,yes,3,0
+79,female,,graduate,single,,2,0
+20,female,32000,graduate,single,yes,3,1
+52,male,80000,college,single,,0,0
+40,male,67000,graduate,divorced,no,0,1
+60,male,20000,graduate,divorced,no,0,1
+20,,89000,high school,single,yes,0,1
+999,,63000,college,married,no,0,1
+43,male,77000,college,,yes,0,1
+999,male,55000,graduate,married,yes,2,0
+32,male,50000,high school,divorced,,,1
+,female,87000,high school,married,no,0,0
+999,female,69000,,married,,0,1
+56,female,29000,college,divorced,yes,0,1
+38,male,31000,graduate,divorced,yes,0,0
+41,female,93000,high school,married,yes,3,1
+24,male,22000,college,married,no,0,1
+20,female,,college,single,no,0,1
+77,female,64000,graduate,married,yes,4,0
+63,male,90000,,divorced,yes,3,0
+41,,87000,college,single,no,,1
+,female,74000,,divorced,yes,3,0
+41,female,78000,college,divorced,yes,4,0
+42,female,39000,college,married,yes,2,1
+39,,,high school,,yes,,0
+60,male,37000,,married,no,0,0
+73,male,34000,college,married,,0,1
+53,male,89000,college,divorced,yes,3,0
+,,56000,graduate,divorced,no,0,1
+78,female,61000,high school,divorced,no,0,0
+60,male,65000,college,married,yes,,1
+72,male,99000,graduate,married,no,,1
+21,female,92000,high school,,yes,0,0
+67,male,55000,high school,divorced,yes,5,1
+73,male,28000,graduate,divorced,no,0,1
+27,male,37000,high school,single,yes,2,1
+39,male,55000,college,married,no,0,0
+19,female,,college,divorced,yes,0,0
+34,female,,high school,divorced,yes,,1
+71,female,,,single,yes,4,1
+999,male,,high school,,no,0,0
+67,female,33000,graduate,divorced,no,0,0
+56,male,56000,graduate,single,no,0,1
+29,male,30000,graduate,divorced,,0,0
+22,female,48000,graduate,single,no,0,0
+61,female,61000,graduate,single,no,0,1
+34,male,57000,high school,single,no,0,1
+46,female,62000,,divorced,no,0,1
+47,male,73000,,divorced,yes,2,1
+53,female,57000,high school,,yes,3,0
+53,female,,college,married,,,1
+57,female,88000,college,married,yes,1,1
+28,female,73000,graduate,single,yes,1,0
+68,male,55000,high school,divorced,no,0,1
+34,female,42000,high school,divorced,yes,5,0
+69,male,77000,high school,married,yes,2,0
+25,female,55000,graduate,divorced,,4,0
+38,female,32000,graduate,single,no,0,0
+74,female,41000,,,no,0,1
+51,,95000,college,divorced,yes,4,0
+26,male,42000,graduate,married,no,0,1
+35,,48000,graduate,married,no,0,0
+24,male,43000,graduate,single,no,0,1
+75,female,,,single,yes,0,1
+54,female,61000,,,yes,5,1
+28,male,94000,high school,divorced,yes,2,0
+67,female,56000,graduate,single,no,0,1
+,,62000,college,single,,0,0
+43,male,25000,college,married,,0,1
+68,female,55000,high school,single,yes,2,0
+60,male,77000,graduate,divorced,yes,5,0
+35,female,93000,high school,divorced,yes,,0
+48,female,,high school,married,yes,5,1
+70,female,23000,high school,single,,0,0
+18,male,59000,graduate,,yes,0,0
+27,female,40000,graduate,married,yes,1,0
+999,male,83000,college,married,yes,2,0
+59,male,26000,high school,divorced,yes,0,0
+47,male,45000,high school,single,no,0,1
+50,,49000,high school,married,,0,1
+42,female,38000,college,divorced,,0,0
+63,male,70000,college,divorced,yes,0,1
+22,male,54000,college,married,no,0,0
+73,,96000,college,divorced,yes,4,0
+20,female,74000,,divorced,yes,3,0
+38,female,,graduate,married,no,0,0
+67,female,38000,graduate,single,no,0,1
+999,male,59000,college,single,no,,1
+59,male,52000,graduate,married,yes,3,1
+53,male,64000,high school,divorced,yes,3,1
+72,male,61000,graduate,,yes,4,1
+70,female,65000,graduate,single,no,0,1
+72,male,43000,high school,divorced,yes,1,0
+,female,55000,high school,single,no,0,0
+36,,88000,high school,married,no,,0
+66,male,49000,,single,yes,5,1
+,male,76000,college,divorced,no,0,1
+79,,29000,graduate,,no,0,1
+,male,24000,graduate,divorced,yes,2,0
+21,female,73000,graduate,divorced,no,0,1
+53,,82000,high school,,no,0,0
+39,female,70000,college,married,yes,4,1
+74,female,83000,,divorced,no,0,1
+30,female,,college,married,no,0,0
+70,male,31000,high school,,no,0,1
+75,male,94000,college,divorced,no,0,1
+55,female,43000,graduate,married,no,,1
+40,male,86000,college,divorced,no,,0
+35,male,68000,high school,divorced,no,0,1
+18,female,,high school,divorced,,1,1
+54,male,99000,high school,,yes,0,0
+74,female,64000,high school,single,yes,,0
+22,male,,,divorced,no,0,1
+38,female,42000,college,married,yes,2,0
+39,male,23000,high school,single,no,0,1
+70,female,30000,high school,single,no,0,0
+26,female,73000,graduate,,yes,5,0
+76,male,68000,college,,yes,2,0
+47,male,,,married,yes,0,0
+39,female,41000,college,married,,4,0
+50,male,79000,graduate,single,no,0,1
+78,female,38000,college,single,yes,2,1
+,male,97000,college,divorced,yes,3,0
+21,female,93000,college,single,no,0,1
+60,,41000,college,married,no,0,0
+53,,,graduate,single,yes,,0
+78,male,54000,high school,divorced,no,,0
+78,male,69000,graduate,divorced,no,0,1
+27,male,37000,,single,yes,5,1
+31,male,79000,,single,no,0,1
+999,male,50000,college,divorced,no,,1
+,female,61000,college,,yes,0,0
+53,female,100000,high school,divorced,no,0,1
+,female,81000,graduate,single,no,0,0
+57,female,55000,graduate,married,no,0,0
+25,male,68000,college,single,,0,1
+59,male,33000,college,divorced,yes,4,1
+65,female,66000,graduate,married,yes,2,1
+59,male,49000,graduate,single,no,,1
+74,female,21000,,married,yes,0,1
+66,female,,graduate,divorced,yes,5,1
+42,male,85000,graduate,married,yes,0,1
+78,male,82000,graduate,single,yes,,0
+70,male,45000,high school,married,no,0,1
+60,female,79000,graduate,divorced,yes,3,1
+51,male,27000,graduate,married,no,0,1
+73,male,40000,high school,married,,3,0
+76,male,46000,graduate,,no,0,0
+999,male,96000,,divorced,yes,0,0
+35,male,58000,graduate,single,no,0,0
+,,31000,graduate,single,yes,2,0
+75,male,66000,college,divorced,no,0,0
+59,female,61000,graduate,married,no,0,1
+71,male,97000,graduate,divorced,no,0,0
+66,female,44000,,,yes,4,0
+,male,72000,college,married,yes,3,0
+66,female,49000,high school,single,yes,,0
+38,,37000,high school,married,no,,1
+,female,60000,graduate,divorced,yes,4,0
+34,male,62000,high school,single,no,0,1
+33,female,39000,graduate,,no,0,0
+26,female,57000,high school,divorced,yes,,1
+27,male,50000,high school,single,yes,4,0
+49,female,59000,high school,divorced,no,0,0
+,female,53000,college,married,no,0,0
+23,male,87000,graduate,single,yes,3,1
+34,male,,high school,divorced,yes,2,1
+65,female,62000,high school,married,no,,1
+42,female,31000,,divorced,yes,,0
+999,female,93000,graduate,married,yes,5,0
+71,female,90000,high school,single,no,0,0
+25,male,67000,graduate,,no,0,1
+65,male,100000,graduate,married,yes,1,0
+60,female,43000,high school,divorced,yes,4,1
+41,,99000,high school,divorced,no,0,0
+46,male,70000,high school,single,,2,0
+67,male,46000,high school,single,no,0,0
+57,,29000,high school,married,no,0,0
+999,male,58000,college,married,yes,5,1
+23,male,,college,single,yes,5,0
+26,female,94000,college,single,no,0,1
+70,female,25000,high school,married,yes,4,1
+,female,99000,college,,no,0,1
+22,female,44000,graduate,divorced,yes,1,0
+63,male,41000,high school,divorced,yes,1,1
+26,male,26000,college,,yes,4,1
+34,female,45000,high school,married,no,,0
+37,male,65000,high school,single,yes,0,1
+26,female,44000,graduate,single,no,0,0
+40,,33000,graduate,married,no,0,0
+46,female,80000,graduate,single,yes,2,0
+24,male,98000,graduate,married,no,0,1
+25,female,84000,graduate,single,yes,3,0
+21,male,77000,college,married,,2,0
+73,female,37000,college,divorced,yes,,0
+65,female,,graduate,divorced,no,0,1
+72,male,,college,divorced,yes,4,1
+22,male,28000,graduate,divorced,yes,4,1
+21,male,65000,graduate,single,yes,2,0
+31,male,58000,graduate,single,yes,4,1
+59,male,73000,graduate,married,no,0,0
+999,male,,college,married,no,0,0
+18,male,40000,,married,no,,1
+,female,93000,graduate,divorced,yes,0,0
+75,male,26000,college,married,yes,2,0
+31,male,41000,college,married,yes,3,1
+52,male,37000,high school,,yes,4,1
+,male,89000,high school,single,no,0,0
+54,female,84000,,married,yes,2,1
+31,male,,high school,,,5,0
+34,female,84000,college,married,no,0,1
+18,male,31000,graduate,married,yes,1,0
+38,male,66000,high school,divorced,no,0,1
+37,female,70000,high school,divorced,yes,0,1
+35,male,67000,college,,no,0,0
+19,male,75000,,,no,0,0
+34,female,77000,high school,single,no,0,1
+65,male,52000,graduate,single,yes,1,1
+35,female,49000,college,divorced,no,0,1
+,female,21000,high school,single,no,0,0
+29,male,86000,high school,,yes,5,0
+22,female,46000,graduate,single,yes,4,1
+58,female,67000,college,single,no,0,0
+71,female,,graduate,divorced,no,0,0
+47,,47000,high school,married,no,0,0
+23,female,30000,college,,yes,1,0
+72,female,75000,high school,single,yes,5,1
+38,male,88000,graduate,married,yes,0,0
+,male,74000,graduate,divorced,,0,0
+50,male,26000,college,single,yes,5,1
+,female,32000,college,,yes,1,1
+60,female,58000,college,divorced,yes,0,0
+40,male,47000,high school,married,no,0,1
+35,,94000,high school,single,,2,1
+62,male,83000,graduate,divorced,no,0,1
+44,female,,high school,married,no,0,1
+38,male,60000,college,divorced,yes,5,1
+55,male,50000,college,divorced,no,0,0
+55,female,,high school,divorced,yes,2,0
+59,,66000,high school,married,no,,0
+69,male,94000,,single,no,0,1
+999,female,52000,college,single,yes,3,1
+65,male,,high school,single,no,0,1
+47,male,53000,college,,yes,1,0
+76,female,96000,graduate,married,no,0,0
+48,male,98000,high school,married,no,0,1
+31,female,27000,graduate,divorced,no,0,1
+35,female,26000,college,single,yes,0,0
+54,male,47000,high school,,no,,1
+78,female,81000,graduate,single,no,,0
+38,female,92000,graduate,single,no,0,0
+64,male,63000,college,divorced,yes,5,1
+73,female,63000,high school,married,yes,3,1
+29,male,56000,college,married,yes,3,0
+,male,47000,graduate,divorced,yes,1,0
+28,female,,high school,married,no,0,0
+58,female,23000,high school,single,no,0,0
+57,female,32000,college,married,yes,5,0
+18,male,77000,college,single,no,0,1
+34,male,27000,high school,divorced,,2,0
+48,male,74000,high school,married,yes,2,1
+,,50000,graduate,,yes,1,0
+35,male,78000,graduate,single,,3,1
+,,37000,graduate,divorced,no,0,0
+28,,29000,college,divorced,yes,1,0
+21,male,,graduate,married,yes,,1
+50,female,61000,graduate,married,no,0,0
+58,male,34000,graduate,single,no,0,1
+49,female,54000,high school,married,no,0,0
+999,male,36000,high school,married,yes,2,0
+26,male,67000,high school,,no,0,1
+61,female,71000,,married,no,0,1
+51,male,70000,high school,,no,0,1
+34,male,57000,high school,single,yes,4,0
+67,male,29000,graduate,single,,,1
+,male,52000,,divorced,no,0,1
+999,male,82000,college,single,no,0,0
+,female,32000,college,single,yes,5,1
+61,,37000,graduate,divorced,yes,2,1
+49,female,,college,single,yes,1,0
+75,female,53000,high school,divorced,no,0,0
+43,male,41000,college,single,no,0,0
+46,,78000,college,divorced,yes,0,1
+50,,61000,high school,single,no,0,1
+45,male,35000,college,married,no,0,1
+67,male,69000,high school,divorced,yes,2,1
+69,,81000,,single,yes,2,1
+51,male,74000,high school,divorced,yes,5,0
+78,,30000,college,single,yes,4,0
+30,,85000,graduate,,yes,4,0
+73,female,26000,college,single,no,0,0
+36,,51000,college,divorced,no,0,0
+22,female,72000,college,married,yes,5,0
+70,male,81000,high school,single,yes,5,0
+49,female,38000,college,single,no,0,1
+74,male,48000,high school,divorced,yes,5,0
+31,female,34000,graduate,single,no,0,1
+20,male,,graduate,married,yes,1,0
+31,male,95000,college,married,no,0,1
+61,male,68000,high school,single,no,0,1
+46,,28000,college,married,no,0,1
+999,,70000,graduate,divorced,yes,1,1
+,female,46000,college,divorced,no,0,1
+19,male,44000,high school,single,no,0,0
+,male,54000,college,divorced,yes,0,1
+53,female,38000,college,single,,0,0
+20,female,79000,college,divorced,no,0,1
+49,female,,college,single,no,0,0
+72,male,58000,college,married,no,0,1
+999,female,62000,graduate,married,no,0,0
+19,male,54000,,divorced,no,,1
+77,male,64000,graduate,divorced,yes,0,1
+59,female,96000,college,single,yes,0,0
+60,female,81000,college,divorced,yes,0,0
+20,,39000,high school,divorced,yes,2,0
+44,female,45000,graduate,divorced,yes,,0
+61,male,32000,high school,married,no,0,0
+999,,39000,college,divorced,no,0,0
+57,female,91000,high school,divorced,yes,5,1
+,female,69000,high school,married,no,0,1
+19,female,80000,college,married,,1,0
+68,female,61000,college,single,yes,0,0
+41,female,78000,graduate,divorced,yes,0,1
+999,female,97000,college,single,yes,1,0
+30,female,81000,graduate,single,yes,1,0
+23,female,72000,graduate,,no,0,0
+27,female,95000,graduate,divorced,yes,2,1
+63,male,,college,single,yes,0,0
+,male,86000,graduate,married,yes,0,1
+27,female,94000,high school,single,yes,3,0
+66,female,22000,college,single,no,,1
+68,female,96000,graduate,single,no,0,0
+54,,91000,graduate,divorced,no,0,1
+58,male,41000,high school,married,no,0,1
+54,male,61000,graduate,single,no,0,1
+43,female,58000,graduate,divorced,no,0,0
+,female,34000,graduate,divorced,no,0,0
+40,male,,,divorced,no,0,0
+64,male,79000,college,married,yes,5,0
+65,male,78000,graduate,married,no,0,0
+77,female,88000,college,married,no,0,1
+38,female,59000,high school,divorced,no,0,0
+36,female,38000,graduate,single,,0,0
+51,male,53000,college,divorced,no,0,0
+999,male,23000,high school,single,yes,2,1
+40,female,30000,college,married,yes,5,1
+50,female,84000,college,single,yes,4,0
+999,female,27000,high school,married,yes,2,0
+,male,,college,married,yes,1,0
+25,female,73000,high school,,no,,0
+63,male,87000,graduate,,no,,0
+56,female,46000,high school,married,yes,5,1
+44,female,33000,graduate,single,no,0,1
+31,female,35000,college,divorced,no,,1
+,female,36000,college,married,yes,0,0
+79,male,33000,graduate,single,yes,0,1
+72,female,36000,graduate,single,yes,2,0
+58,male,89000,graduate,single,yes,2,1
+79,,93000,high school,,no,0,1
+25,male,92000,college,single,yes,4,0
+31,male,,,single,yes,5,1
+999,male,,graduate,single,yes,0,0
+45,female,68000,college,divorced,,0,1
+32,female,20000,high school,married,no,0,1
+34,female,80000,high school,single,no,0,0
+20,,57000,graduate,single,yes,1,1
+21,male,,graduate,single,yes,2,1
+45,male,25000,graduate,single,no,0,0
+41,male,79000,graduate,single,,1,0
+36,male,53000,,single,no,0,0
+36,female,26000,college,single,no,0,1
+999,male,83000,graduate,single,no,0,1
+67,female,60000,graduate,single,yes,3,1
+73,female,79000,high school,,yes,3,1
+75,female,88000,graduate,married,no,0,0
+49,male,45000,graduate,married,yes,4,1
+59,male,96000,college,divorced,yes,2,0
+68,female,73000,high school,married,no,0,0
+54,male,80000,high school,divorced,no,0,1
+73,female,37000,high school,,yes,1,1
+34,female,72000,college,married,no,0,0
+,male,37000,college,married,yes,4,1
+77,female,74000,graduate,single,yes,2,1
+76,,,college,divorced,yes,1,1
+,male,,high school,divorced,yes,1,1
+48,male,47000,high school,divorced,yes,1,1
+34,female,68000,,divorced,yes,2,0
+51,female,83000,graduate,married,no,0,0
+,female,,high school,married,no,0,0
+31,female,76000,,married,no,0,0
+76,female,68000,college,single,yes,2,0
+51,female,98000,college,married,yes,1,0
+,male,61000,college,married,,3,1
+56,female,43000,college,divorced,no,0,0
+19,male,34000,graduate,single,yes,5,1
+34,male,90000,college,divorced,yes,4,1
+73,female,59000,graduate,single,no,,1
+46,female,95000,college,divorced,no,0,1
+22,female,40000,college,,yes,2,1
+19,male,85000,high school,divorced,no,0,0
+31,male,70000,college,divorced,yes,4,0
+53,female,79000,graduate,married,no,0,0
+68,,69000,high school,married,no,0,0
+19,male,,,divorced,no,0,1
+72,female,24000,college,divorced,yes,0,0
+,female,71000,graduate,married,no,0,1
+79,female,97000,graduate,married,yes,2,1
+42,female,26000,college,married,,0,1
+,,42000,graduate,single,no,0,1
+75,male,35000,college,divorced,,0,1
+43,male,40000,college,single,no,0,0
+,male,99000,college,divorced,,,1
+34,male,88000,college,single,no,0,0
+31,female,64000,graduate,divorced,yes,1,0
+65,male,88000,graduate,married,yes,,0
+70,male,,college,,yes,1,0
+29,female,76000,graduate,married,yes,5,0
+,male,28000,high school,single,no,0,0
+69,female,62000,graduate,single,no,0,1
+79,male,88000,graduate,divorced,yes,5,0
+73,male,96000,high school,single,yes,5,0
+66,male,27000,,single,no,0,0
+,male,64000,college,married,yes,0,0
+49,,75000,high school,divorced,no,0,0
+60,male,78000,graduate,divorced,yes,2,1
+50,female,55000,graduate,divorced,no,0,0
+66,male,86000,high school,,yes,5,0
+30,female,63000,high school,single,yes,4,0
+29,male,35000,college,divorced,no,0,1
+39,male,95000,high school,single,no,0,1
+43,female,30000,graduate,divorced,no,0,1
+25,,72000,,single,,3,0
+23,male,95000,high school,divorced,no,0,1
+63,male,,college,single,no,0,0
+68,female,25000,high school,married,no,0,0
+45,female,,college,married,,0,1
+45,female,57000,high school,divorced,yes,5,0
+48,female,32000,graduate,divorced,yes,5,1
+63,female,40000,college,married,yes,0,1
+,female,80000,college,married,no,0,1
+59,female,47000,college,,no,0,1
+30,female,92000,graduate,married,no,0,0
+60,,84000,college,divorced,yes,2,0
+62,female,36000,graduate,divorced,yes,2,1
+30,male,,college,married,yes,3,0
+38,male,80000,,single,no,0,1
+,male,62000,,divorced,yes,,1
+73,female,37000,graduate,,,0,0
+77,male,22000,high school,divorced,yes,1,0
+62,male,49000,high school,,yes,1,1
+52,female,27000,graduate,single,no,0,1
+37,female,78000,high school,married,yes,1,1
+58,male,48000,,,yes,2,0
+72,female,100000,college,divorced,yes,,0
+70,female,77000,,married,no,,0
+62,male,96000,,single,yes,2,0
+26,,87000,high school,married,no,,0
+,,92000,graduate,single,,1,0
+,male,98000,high school,single,yes,1,1
+42,female,91000,graduate,married,,0,1
+30,male,75000,,,yes,,1
+60,,96000,graduate,married,yes,3,0
+35,female,77000,high school,single,yes,4,1
+58,,47000,college,married,yes,,1
+73,female,59000,high school,divorced,yes,0,0
+76,male,93000,high school,married,yes,4,1
+49,male,62000,graduate,single,yes,4,1
+41,male,70000,high school,single,yes,5,1
+74,male,67000,graduate,divorced,no,0,1
+77,female,81000,graduate,single,no,0,0
+38,female,41000,college,single,yes,0,1
+70,female,66000,graduate,single,no,0,0
+36,,74000,high school,married,yes,2,0
+38,male,25000,high school,married,no,,0
+25,male,20000,high school,single,yes,2,0
+40,female,83000,college,divorced,yes,5,0
+54,female,77000,,single,no,0,1
+33,female,64000,graduate,divorced,no,0,1
+19,female,21000,high school,single,yes,1,1
+42,male,75000,,married,yes,0,1
+69,male,87000,high school,married,yes,2,1
+71,female,96000,graduate,single,yes,0,1
+59,,50000,,single,yes,1,1
+74,male,99000,high school,married,,0,1
+58,,48000,graduate,married,,0,0
+74,,29000,,,,0,0
+62,male,37000,graduate,,yes,3,1
+,female,48000,high school,divorced,yes,1,0
+27,male,77000,,divorced,yes,3,1
+31,male,84000,college,divorced,yes,3,1
+999,,91000,,divorced,yes,3,1
+27,female,100000,college,married,no,0,1
+66,male,80000,graduate,divorced,yes,0,0
+62,male,42000,high school,divorced,,3,1
+29,female,,high school,single,no,0,1
+70,male,41000,high school,married,yes,1,0
+58,male,76000,college,,yes,2,0
+55,female,33000,graduate,married,no,0,1
+79,male,35000,graduate,married,no,,0
+51,male,46000,graduate,married,no,,1
+62,female,56000,graduate,divorced,no,0,1
+57,female,75000,graduate,married,,,0
+,male,,graduate,,yes,3,1
+55,male,77000,college,married,no,0,1
+999,male,83000,graduate,single,no,0,0
+78,female,86000,,,,3,0
+29,male,96000,college,divorced,no,0,1
+32,female,44000,high school,divorced,no,0,1
+18,female,73000,high school,divorced,yes,5,0
+78,male,62000,,married,no,0,0
+29,male,,high school,married,yes,,1
+60,female,88000,graduate,divorced,no,0,0
+25,female,77000,college,single,no,0,0
+67,female,,high school,single,no,0,0
+74,female,97000,college,divorced,yes,2,1
+41,male,73000,college,married,no,0,1
+52,female,56000,graduate,single,yes,5,1
+35,male,81000,college,,yes,3,0
+18,male,68000,graduate,single,yes,3,1
+,female,90000,graduate,divorced,no,0,1
+36,female,,college,married,no,0,1
+54,female,87000,graduate,divorced,no,0,0
+19,male,89000,graduate,married,no,0,1
+65,male,22000,high school,,no,0,0
+,female,70000,college,,yes,1,0
+51,female,39000,college,divorced,no,0,1
+56,female,32000,,divorced,no,0,1
+,male,32000,high school,married,no,0,1
+51,male,60000,graduate,,yes,1,1
+54,male,77000,graduate,married,yes,1,1
+34,female,,college,divorced,no,0,1
+59,male,73000,college,single,yes,4,1
+70,female,51000,high school,married,no,0,1
+,female,94000,graduate,married,no,0,0
+51,female,26000,graduate,single,yes,0,0
+68,female,70000,high school,married,no,0,1
+58,female,84000,high school,,yes,3,1
+60,female,67000,college,divorced,no,0,1
+999,,36000,high school,divorced,yes,1,1
+70,female,79000,college,married,,,0
+44,male,,graduate,single,no,0,1
+,male,,college,divorced,,0,1
+47,male,59000,college,,yes,3,1
+75,female,73000,high school,single,no,0,0
+64,female,98000,graduate,married,yes,,0
+20,female,82000,graduate,divorced,yes,2,1
+59,female,97000,graduate,single,yes,0,0
+67,,47000,graduate,married,yes,2,1
+999,male,51000,graduate,divorced,no,0,1
+78,,56000,high school,,,0,0
+79,male,46000,,single,no,0,1
+,female,97000,graduate,single,yes,,0
+24,male,,college,married,no,,0
+78,female,77000,college,single,no,0,1
+79,female,34000,college,single,yes,,1
+65,female,40000,graduate,divorced,yes,2,0
+26,male,31000,college,single,,,0
+62,male,60000,high school,married,yes,5,1
+28,male,27000,graduate,single,no,0,1
+22,female,27000,high school,married,no,0,0
+67,,35000,college,married,no,0,0
+,male,42000,college,single,no,0,1
+44,male,62000,graduate,single,no,0,0
+59,male,,graduate,single,no,,0
+27,female,67000,graduate,divorced,no,0,1
+57,female,99000,college,single,yes,4,1
+999,male,35000,high school,,no,0,1
+28,,87000,college,divorced,yes,1,1
+29,male,57000,high school,divorced,yes,2,0
+72,female,,,single,no,0,0
+75,male,72000,college,divorced,no,0,1
+,male,57000,high school,married,no,0,1
+61,female,54000,college,divorced,no,0,0
+33,female,95000,college,,no,0,1
+,male,94000,graduate,married,yes,5,0
+73,,70000,graduate,married,no,0,1
+69,male,80000,high school,married,yes,5,1
+57,male,77000,college,married,no,0,1
+999,male,95000,high school,married,no,0,0
+43,female,88000,college,divorced,no,,1
+73,,87000,graduate,divorced,no,0,1
+27,male,38000,graduate,single,,2,0
+78,male,95000,high school,divorced,yes,0,1
+23,female,86000,graduate,divorced,no,0,1
+28,male,99000,college,married,yes,0,0
+71,female,70000,,single,no,0,0
+68,female,74000,college,married,,0,0
+46,male,51000,college,divorced,yes,3,1
+22,male,94000,high school,married,no,0,0
+34,male,,graduate,single,,,0
+56,female,93000,college,single,yes,1,1
+30,female,22000,graduate,single,no,0,0
+61,male,88000,high school,married,,0,1
+69,female,81000,,married,yes,,0
+23,female,54000,graduate,single,yes,0,1
+67,female,79000,college,divorced,yes,2,1
+30,male,62000,college,,,0,1
+20,female,89000,,divorced,no,,0
+73,female,40000,high school,divorced,no,0,1
+54,female,56000,graduate,single,,0,0
+64,male,64000,college,divorced,yes,4,1
+,female,,high school,married,yes,1,1
+64,male,64000,high school,divorced,,5,0
+70,,93000,graduate,single,yes,1,1
+34,male,,graduate,divorced,yes,5,1
+26,male,95000,graduate,single,no,0,0
+37,female,39000,high school,married,no,0,1
+46,male,49000,,divorced,yes,2,0
+74,male,34000,high school,married,yes,4,1
+999,female,48000,,divorced,no,0,1
+73,male,46000,high school,divorced,no,0,1
+76,female,58000,high school,married,no,,0
+48,male,98000,college,divorced,yes,0,0
+54,female,68000,graduate,divorced,yes,1,1
+22,female,78000,high school,divorced,yes,,0
+57,female,,high school,divorced,no,0,0
+,female,37000,college,,no,0,0
+50,female,29000,high school,divorced,yes,4,0
+59,male,81000,graduate,married,no,0,1
+36,male,96000,college,married,yes,5,1
+59,female,22000,high school,single,,0,1
+60,male,45000,college,divorced,yes,3,1
+72,male,24000,college,,no,,1
+999,,,college,married,yes,0,1
+30,,23000,high school,married,yes,4,1
+22,,27000,high school,divorced,no,0,1
+,male,83000,high school,single,no,0,1
+76,,97000,graduate,single,yes,1,0
+49,male,50000,graduate,single,yes,1,0
+19,male,38000,graduate,,no,0,0
+18,female,55000,graduate,married,yes,,1
+40,male,55000,graduate,divorced,no,0,1
+54,male,27000,high school,,yes,1,0
+58,male,40000,high school,divorced,yes,1,1
+31,female,74000,college,married,yes,4,0
+24,female,36000,,single,no,0,1
+25,female,43000,graduate,divorced,yes,0,0
+71,,,graduate,single,,4,1
+77,male,64000,college,divorced,yes,0,0
+31,,62000,graduate,married,no,0,1
+50,female,24000,high school,married,no,0,0
+,male,32000,high school,married,no,0,0
+66,,27000,graduate,divorced,no,0,0
+75,male,91000,college,single,no,0,1
+999,female,43000,college,married,yes,5,0
+75,female,63000,high school,single,yes,5,0
+53,female,67000,,single,no,0,0
+59,male,,high school,married,no,0,1
+63,female,54000,college,single,yes,5,1
+41,female,56000,graduate,,no,0,1
+26,male,69000,,divorced,yes,5,1
+65,male,62000,college,single,no,0,0
+999,male,63000,graduate,divorced,no,0,0
+35,female,72000,graduate,divorced,no,,1
+46,,40000,high school,single,no,0,0
+69,,35000,graduate,divorced,no,0,0
+38,,31000,,married,no,0,1
+999,male,22000,college,married,no,0,1
+43,male,35000,,married,no,0,0
+67,male,69000,graduate,,no,0,0
+18,female,36000,high school,,yes,5,0
+54,male,84000,college,single,no,,1
+20,male,,high school,single,yes,3,0
+,male,85000,high school,divorced,no,0,0
+55,male,79000,high school,,,0,1
+999,,30000,college,divorced,yes,4,0
+73,male,92000,graduate,,yes,4,0
+50,male,98000,college,married,no,0,1
+999,female,96000,high school,single,,0,0
+25,male,91000,graduate,single,yes,,1
+48,female,54000,college,single,yes,1,0
+26,female,63000,,married,yes,1,0
+22,female,48000,college,married,yes,0,0
+51,male,29000,,single,no,0,0
+67,female,63000,high school,single,no,0,1
+76,,89000,high school,single,yes,1,0
+26,male,71000,,single,yes,5,1
+75,female,72000,high school,married,,,1
+24,female,30000,college,married,yes,4,0
+41,female,65000,high school,,yes,3,0
+44,female,47000,high school,single,no,0,1
+34,male,78000,,married,no,,0
+47,male,38000,high school,single,no,0,0
+,female,83000,,single,,0,0
+28,female,35000,graduate,single,yes,5,1
+19,female,56000,college,divorced,yes,0,1
+76,male,,high school,divorced,no,0,0
+52,male,97000,high school,,yes,2,1
+35,female,42000,,divorced,no,,0
+69,male,53000,high school,divorced,yes,0,1
+29,male,69000,high school,married,yes,,0
+48,female,62000,high school,,no,0,1
+43,male,,,divorced,yes,,0
+,male,32000,high school,single,no,0,0
+52,male,34000,high school,married,no,0,0
+19,female,77000,graduate,single,,1,1
+79,male,,graduate,single,no,0,1
+38,female,56000,college,single,no,0,0
+68,female,93000,high school,single,no,0,1
+62,male,81000,college,married,yes,4,0
+25,female,78000,high school,single,no,0,1
+,female,25000,graduate,,,0,1
+,,94000,college,married,no,0,0
+,male,73000,high school,married,yes,4,0
+18,female,97000,college,divorced,yes,,1
+999,,53000,high school,married,yes,1,0
+999,female,,graduate,divorced,yes,4,1
+999,male,80000,,divorced,no,,0
+77,female,64000,graduate,single,no,,0
+57,female,51000,high school,single,,2,1
+,female,49000,high school,divorced,no,0,1
+46,male,92000,college,divorced,yes,1,0
+,female,23000,graduate,,yes,0,0
+75,female,79000,college,single,no,0,0
+77,male,,high school,divorced,no,0,0
+66,,70000,,,yes,5,0
+52,female,95000,,,yes,1,1
+69,male,52000,graduate,married,yes,0,0
+78,male,39000,high school,divorced,no,0,0
+28,male,84000,high school,single,no,0,1
+26,male,52000,graduate,divorced,no,0,1
+34,male,63000,high school,single,yes,5,1
+38,male,58000,,divorced,no,0,0
+,male,99000,college,married,yes,4,0
+51,female,56000,high school,single,no,0,1
+32,female,96000,college,divorced,yes,4,1
+67,female,100000,college,single,yes,,0
+23,female,97000,high school,married,no,0,1
+26,male,50000,college,divorced,yes,5,1
+75,male,91000,college,married,yes,4,0
+22,female,,college,married,yes,4,0
+20,male,94000,high school,married,no,0,0
+48,male,85000,college,married,no,0,1
+67,female,99000,college,married,no,0,0
+64,male,40000,college,married,yes,2,0
+49,male,89000,high school,divorced,yes,1,0
+69,male,21000,college,divorced,no,0,1
+73,male,82000,college,divorced,yes,3,0
+28,female,39000,college,divorced,,0,1
+23,male,74000,college,divorced,no,0,0
+71,male,27000,high school,single,yes,0,1
+79,,99000,high school,married,yes,1,0
+42,male,77000,college,,no,,1
+30,female,79000,college,divorced,,2,1
+,female,58000,graduate,divorced,no,0,1
+30,male,70000,,divorced,yes,4,0
+,female,,high school,single,no,0,1
+999,male,40000,high school,married,no,0,1
+23,,,graduate,single,no,,0
+59,male,85000,college,divorced,no,0,0
+,female,63000,high school,single,yes,3,1
+18,female,29000,high school,single,no,0,1
+45,male,89000,college,,no,0,0
+70,female,79000,graduate,married,yes,1,1
+51,male,49000,graduate,single,no,0,1
+27,female,55000,college,,yes,0,1
+45,male,42000,,single,no,0,1
+50,,91000,,divorced,no,,1
+23,male,56000,high school,married,yes,1,0
+25,female,42000,high school,married,no,0,0
+,male,20000,high school,divorced,no,,0
+49,female,57000,graduate,divorced,no,,0
+,female,45000,,single,yes,4,0
+63,female,,high school,married,no,0,1
+19,female,79000,graduate,married,no,0,0
+58,male,21000,graduate,single,,0,1
+53,female,40000,college,married,yes,5,1
+20,male,,graduate,married,no,0,0
+35,male,76000,college,single,,0,0
+73,female,23000,college,divorced,no,0,1
+36,female,67000,high school,married,no,0,0
+55,male,97000,graduate,single,yes,2,0
+63,male,79000,,divorced,yes,4,0
+68,female,61000,graduate,married,no,0,1
+45,male,31000,college,divorced,yes,3,0
+,male,87000,high school,,no,0,0
+69,female,39000,high school,married,,0,1
+,male,93000,graduate,single,no,0,0
+54,female,35000,college,single,no,0,1
+42,female,86000,high school,single,no,0,1
+45,female,37000,college,single,yes,2,1
+25,female,62000,college,single,no,0,0
+57,female,55000,graduate,,no,0,1
+56,female,35000,college,single,yes,0,1
+53,male,97000,high school,divorced,yes,,1
+64,,65000,graduate,married,yes,1,1
+58,female,75000,college,married,no,0,1
+45,female,87000,graduate,single,no,0,1
+40,male,29000,,,yes,4,1
+70,female,77000,college,single,,2,0
+49,female,41000,college,divorced,no,0,0
+48,male,92000,high school,divorced,yes,1,0
+23,female,34000,graduate,single,no,0,1
+77,female,33000,high school,single,yes,0,0
+48,female,94000,high school,divorced,yes,0,0
+20,female,52000,college,married,yes,3,0
+72,,51000,college,married,yes,3,0
+32,female,,high school,divorced,yes,1,0
+34,male,99000,graduate,,no,0,1
+50,male,32000,college,single,no,0,0
+58,male,44000,college,single,,3,0
+70,female,66000,high school,married,,0,0
+33,,,college,,no,0,1
+,,38000,graduate,single,no,0,0
+76,male,98000,graduate,divorced,,3,0
+32,male,54000,college,single,yes,4,1
+64,male,43000,graduate,married,no,,1
+50,female,51000,high school,single,no,0,0
+55,male,95000,,single,yes,1,0
+,female,75000,college,divorced,no,0,0
+18,male,56000,,married,no,0,1
+57,,,,single,no,0,0
+42,female,33000,,single,no,0,0
+29,male,89000,college,married,,0,0
+67,female,59000,high school,married,no,0,1
+63,female,95000,college,married,,4,1
+999,male,,college,divorced,yes,2,1
+79,female,63000,college,single,yes,1,1
+65,male,,graduate,married,no,0,1
+78,male,46000,college,,yes,2,0
+60,female,,college,divorced,yes,3,1
+55,male,95000,college,married,no,0,0
+58,female,56000,,married,no,0,0
+999,male,75000,graduate,married,yes,4,0
+41,male,,college,single,yes,,0
+,female,59000,college,married,,0,1
+74,male,,graduate,married,yes,5,0
+74,,,graduate,single,yes,3,0
+70,male,53000,high school,single,yes,2,1
+33,male,93000,college,divorced,yes,1,0
+60,female,81000,graduate,married,,1,1
+59,male,65000,high school,divorced,yes,1,1

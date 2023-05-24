@@ -1,0 +1,201 @@
+Hospital Type,Num of Doctors,Num of Staff,Num of Departments,Surgical Facilities,Working Hours,Inpatient Facility,Outpatient Facility,Serving Population,Serving area
+Community hospital,133,290,12,No,,No,Yes,"150,000-200,000",Urban
+Community hospital,141,212,10,,9-6,No,Yes,"150,000-200,000",Urban
+Children's hospital,,353,10,Yes,,Yes,Yes,"150,000-200,000",Urban
+Teaching hospital,90,249,15,Yes,10-7,No,Yes,"100,000 - 150,000",Rural
+,89,290,,Yes,8-5,No,Yes,"100,000 - 150,000",Rural
+Children's hospital,81,,15,,24/7,Yes,No,"150,000-200,000",Urban
+Teaching hospital,,,15,Yes,8-5,No,Yes,"100,000 - 150,000",
+Research hospital,141,249,12,Yes,10-7,No,,"200,000+",Urban
+Community hospital,141,249,10,,8-5,No,No,"200,000+",Urban
+Community hospital,133,353,12,,9-6,No,No,"100,000 - 150,000",Rural
+General hospital,81,290,12,Yes,24/7,Yes,No,"150,000-200,000",Urban
+Community hospital,141,249,10,Yes,10-7,Yes,Yes,"50,000 - 100,000",Rural
+Community hospital,89,,10,No,8-5,No,,"150,000-200,000",Urban
+General hospital,133,206,15,Yes,24/7,Yes,,"150,000-200,000",Urban
+Research hospital,89,290,15,No,24/7,Yes,No,"150,000-200,000",Urban
+Teaching hospital,81,290,21,,24/7,Yes,Yes,"100,000 - 150,000",Rural
+General hospital,89,,10,No,8-5,No,No,"100,000 - 150,000",Rural
+Teaching hospital,133,353,,No,10-7,Yes,No,"100,000 - 150,000",Rural
+Teaching hospital,90,206,21,Yes,9-6,No,No,"50,000 - 100,000",Rural
+Teaching hospital,133,249,12,No,24/7,Yes,No,"150,000-200,000",
+Children's hospital,90,206,21,No,8-5,Yes,No,"200,000+",Urban
+Research hospital,90,206,10,Yes,9-6,No,Yes,"200,000+",Urban
+Teaching hospital,89,249,21,No,9-6,Yes,Yes,"150,000-200,000",Urban
+Research hospital,,290,15,No,9-6,Yes,,,Urban
+Children's hospital,141,353,10,,24/7,Yes,No,"50,000 - 100,000",Rural
+Teaching hospital,81,206,15,Yes,8-5,Yes,No,"50,000 - 100,000",Rural
+Research hospital,90,,21,,9-6,,Yes,"200,000+",Urban
+Children's hospital,133,353,15,No,10-7,No,No,"200,000+",Urban
+Teaching hospital,89,212,15,No,24/7,Yes,No,"150,000-200,000",Urban
+Teaching hospital,89,249,,No,9-6,No,No,"50,000 - 100,000",Rural
+Community hospital,133,212,10,No,9-6,No,No,"150,000-200,000",Urban
+Children's hospital,133,249,15,Yes,9-6,No,No,"200,000+",Urban
+Community hospital,81,206,,No,9-6,Yes,Yes,"150,000-200,000",Urban
+Community hospital,90,206,15,,24/7,Yes,No,"150,000-200,000",Urban
+Community hospital,89,212,21,Yes,9-6,No,No,"50,000 - 100,000",
+General hospital,,206,15,Yes,8-5,No,Yes,"150,000-200,000",Urban
+Research hospital,90,353,15,Yes,9-6,No,Yes,"50,000 - 100,000",Rural
+General hospital,133,212,15,No,8-5,No,,"200,000+",Urban
+Research hospital,90,212,12,No,24/7,Yes,No,"200,000+",Urban
+General hospital,89,212,10,No,8-5,Yes,Yes,"200,000+",
+Community hospital,81,206,10,Yes,10-7,No,No,"50,000 - 100,000",Rural
+Children's hospital,90,206,10,Yes,24/7,,Yes,"150,000-200,000",Urban
+General hospital,,212,12,Yes,10-7,No,Yes,"50,000 - 100,000",Rural
+Community hospital,81,249,10,Yes,8-5,No,Yes,"150,000-200,000",Urban
+Teaching hospital,89,290,15,No,,No,Yes,,Urban
+Teaching hospital,141,212,12,,10-7,Yes,No,"150,000-200,000",Urban
+Teaching hospital,141,,10,No,9-6,Yes,Yes,"100,000 - 150,000",Rural
+,89,212,,No,9-6,,Yes,"100,000 - 150,000",Rural
+Children's hospital,,353,12,Yes,8-5,Yes,No,,Rural
+Community hospital,81,206,,No,8-5,Yes,Yes,"50,000 - 100,000",Rural
+Teaching hospital,90,290,12,Yes,10-7,Yes,No,"50,000 - 100,000",Rural
+Teaching hospital,89,249,,No,24/7,No,No,"200,000+",Urban
+,81,212,10,Yes,8-5,No,Yes,"50,000 - 100,000",Rural
+General hospital,81,212,15,Yes,10-7,Yes,No,"50,000 - 100,000",Rural
+Children's hospital,141,290,15,Yes,10-7,No,No,"50,000 - 100,000",
+General hospital,90,353,15,,10-7,Yes,No,"200,000+",Urban
+Community hospital,,212,10,No,9-6,No,No,"150,000-200,000",Urban
+Teaching hospital,89,212,10,No,24/7,Yes,Yes,"50,000 - 100,000",Rural
+,90,206,15,No,9-6,Yes,Yes,"50,000 - 100,000",Rural
+Community hospital,133,353,21,Yes,9-6,,Yes,"200,000+",Urban
+Community hospital,90,206,15,No,9-6,Yes,Yes,,Rural
+Research hospital,89,353,12,Yes,,No,No,,Urban
+Teaching hospital,89,206,15,Yes,24/7,No,No,"200,000+",Urban
+Community hospital,,290,15,No,10-7,Yes,Yes,"200,000+",Urban
+Research hospital,133,,15,No,24/7,Yes,No,"100,000 - 150,000",Rural
+General hospital,90,290,10,Yes,10-7,Yes,Yes,"100,000 - 150,000",Rural
+Research hospital,90,249,21,Yes,10-7,No,No,"150,000-200,000",Urban
+Children's hospital,90,,15,Yes,10-7,Yes,Yes,"150,000-200,000",Urban
+Children's hospital,90,212,12,No,9-6,Yes,No,,Urban
+General hospital,81,249,21,No,,Yes,No,"100,000 - 150,000",Rural
+Community hospital,133,353,12,Yes,8-5,Yes,No,"150,000-200,000",Urban
+Teaching hospital,81,206,12,No,9-6,Yes,Yes,"150,000-200,000",Urban
+General hospital,89,212,,,9-6,,Yes,"50,000 - 100,000",Rural
+Teaching hospital,90,249,12,No,9-6,Yes,No,"100,000 - 150,000",
+,89,353,15,Yes,24/7,No,No,"50,000 - 100,000",Rural
+Community hospital,141,212,21,Yes,9-6,Yes,Yes,"200,000+",Urban
+Research hospital,81,353,10,Yes,8-5,No,Yes,"200,000+",Urban
+,89,353,21,Yes,9-6,Yes,Yes,"50,000 - 100,000",Rural
+Community hospital,133,249,15,No,9-6,No,No,"150,000-200,000",Urban
+Community hospital,141,290,15,,24/7,No,No,"100,000 - 150,000",Rural
+Community hospital,81,353,12,Yes,24/7,Yes,No,"150,000-200,000",Urban
+General hospital,90,249,12,No,9-6,No,No,"200,000+",Urban
+Research hospital,141,249,15,,8-5,,No,,Rural
+Children's hospital,141,290,21,,10-7,,Yes,"50,000 - 100,000",Rural
+,89,353,10,No,10-7,No,,"100,000 - 150,000",Rural
+Community hospital,81,206,15,No,,No,No,"150,000-200,000",Urban
+,89,353,15,No,24/7,No,Yes,"150,000-200,000",Urban
+General hospital,81,249,15,Yes,,Yes,Yes,"100,000 - 150,000",Rural
+Research hospital,81,212,12,No,8-5,No,Yes,"100,000 - 150,000",Rural
+,141,249,,Yes,10-7,Yes,No,"100,000 - 150,000",Rural
+General hospital,133,290,21,Yes,10-7,No,No,"100,000 - 150,000",Rural
+Teaching hospital,89,212,,Yes,9-6,No,Yes,"150,000-200,000",Urban
+General hospital,90,206,15,No,9-6,No,Yes,"50,000 - 100,000",Rural
+General hospital,90,212,21,No,9-6,,Yes,"150,000-200,000",Urban
+Research hospital,,212,10,No,10-7,Yes,Yes,"150,000-200,000",Urban
+General hospital,81,290,15,No,10-7,Yes,No,"200,000+",Urban
+Research hospital,90,290,10,No,8-5,Yes,Yes,,Urban
+,89,206,12,No,9-6,Yes,,"100,000 - 150,000",Rural
+Community hospital,,212,15,Yes,24/7,,No,"100,000 - 150,000",Rural
+Research hospital,89,353,15,Yes,8-5,No,No,"50,000 - 100,000",Rural
+General hospital,89,206,15,No,10-7,No,Yes,"50,000 - 100,000",Rural
+,141,212,10,Yes,9-6,,Yes,"100,000 - 150,000",Rural
+Community hospital,133,353,12,Yes,24/7,,No,"50,000 - 100,000",Rural
+Teaching hospital,141,206,12,No,9-6,Yes,,"150,000-200,000",Urban
+General hospital,141,249,12,No,24/7,,Yes,"200,000+",Urban
+Community hospital,90,206,10,No,10-7,Yes,No,"150,000-200,000",Urban
+Research hospital,141,206,,Yes,8-5,Yes,Yes,"100,000 - 150,000",Rural
+General hospital,141,290,10,,24/7,Yes,,"50,000 - 100,000",Rural
+Teaching hospital,133,353,10,Yes,9-6,Yes,Yes,"150,000-200,000",
+,133,353,,Yes,9-6,No,Yes,"100,000 - 150,000",Rural
+Children's hospital,81,290,21,,24/7,Yes,No,"200,000+",Urban
+Community hospital,133,353,21,No,24/7,No,,"100,000 - 150,000",Rural
+Children's hospital,141,206,,No,8-5,No,No,"200,000+",Urban
+Teaching hospital,90,212,12,Yes,24/7,Yes,No,,Rural
+Research hospital,141,353,10,No,,No,No,"200,000+",Urban
+General hospital,141,290,21,Yes,8-5,Yes,No,"100,000 - 150,000",Rural
+Community hospital,90,212,15,No,9-6,No,No,"200,000+",Urban
+Teaching hospital,133,353,21,Yes,10-7,No,Yes,"150,000-200,000",Urban
+Teaching hospital,81,206,15,,24/7,,No,"200,000+",Urban
+Research hospital,89,290,10,No,10-7,No,Yes,"50,000 - 100,000",Rural
+Children's hospital,89,,15,No,8-5,No,Yes,"50,000 - 100,000",Rural
+Teaching hospital,133,290,21,No,9-6,Yes,Yes,,Urban
+Teaching hospital,133,,,Yes,10-7,Yes,Yes,"150,000-200,000",Urban
+Children's hospital,,212,,No,10-7,Yes,,"50,000 - 100,000",Rural
+General hospital,89,206,10,Yes,8-5,No,Yes,"150,000-200,000",Urban
+Community hospital,133,290,10,Yes,24/7,,Yes,"50,000 - 100,000",Rural
+Children's hospital,89,212,,,24/7,Yes,No,"50,000 - 100,000",Rural
+,90,290,21,No,9-6,Yes,Yes,,Rural
+General hospital,90,212,,Yes,9-6,Yes,No,"100,000 - 150,000",Rural
+,,249,21,No,8-5,No,Yes,"50,000 - 100,000",
+,,249,10,No,9-6,No,No,"150,000-200,000",Urban
+Research hospital,,,,No,8-5,No,Yes,"150,000-200,000",Urban
+General hospital,81,206,21,,9-6,Yes,Yes,,Urban
+General hospital,89,353,15,No,24/7,Yes,No,,
+General hospital,133,249,15,Yes,10-7,Yes,No,"50,000 - 100,000",Rural
+Children's hospital,90,290,21,No,10-7,Yes,,"100,000 - 150,000",Rural
+Teaching hospital,90,353,,Yes,10-7,Yes,No,"200,000+",
+,133,353,15,Yes,24/7,No,No,"200,000+",Urban
+Children's hospital,81,290,21,No,9-6,Yes,Yes,"50,000 - 100,000",Rural
+Teaching hospital,89,206,10,No,9-6,Yes,Yes,"150,000-200,000",Urban
+,141,353,,Yes,,No,Yes,"50,000 - 100,000",Rural
+,89,249,21,Yes,10-7,No,Yes,"150,000-200,000",Urban
+,90,206,12,Yes,8-5,Yes,,"150,000-200,000",Urban
+Research hospital,89,212,10,Yes,,No,Yes,"100,000 - 150,000",Rural
+General hospital,90,212,10,No,10-7,No,Yes,"150,000-200,000",Urban
+Community hospital,89,212,15,No,10-7,No,Yes,"200,000+",Urban
+Research hospital,81,,,Yes,24/7,No,Yes,"150,000-200,000",Urban
+Children's hospital,141,249,21,Yes,9-6,Yes,No,"100,000 - 150,000",Rural
+Teaching hospital,90,353,21,No,24/7,Yes,Yes,"200,000+",Urban
+Research hospital,81,249,15,No,24/7,Yes,Yes,"50,000 - 100,000",Rural
+,81,353,21,Yes,9-6,No,Yes,"50,000 - 100,000",Rural
+General hospital,,,21,No,8-5,Yes,No,"50,000 - 100,000",Rural
+Teaching hospital,,249,15,No,24/7,Yes,Yes,"100,000 - 150,000",Rural
+General hospital,133,212,10,Yes,24/7,Yes,No,"200,000+",Urban
+Community hospital,89,353,21,No,8-5,Yes,No,"100,000 - 150,000",Rural
+Community hospital,133,212,21,Yes,8-5,Yes,Yes,"50,000 - 100,000",Rural
+Research hospital,133,212,12,,24/7,,,"150,000-200,000",Urban
+Research hospital,133,212,15,No,9-6,Yes,,"150,000-200,000",Urban
+Community hospital,133,353,10,Yes,24/7,Yes,No,"150,000-200,000",Urban
+Research hospital,141,353,21,No,24/7,No,Yes,"100,000 - 150,000",Rural
+General hospital,141,206,10,Yes,10-7,No,,,Rural
+Research hospital,133,353,15,,10-7,No,No,"150,000-200,000",Urban
+Community hospital,,249,15,No,9-6,No,No,"50,000 - 100,000",Rural
+Community hospital,133,249,10,No,9-6,,No,"100,000 - 150,000",Rural
+,141,290,15,Yes,10-7,No,Yes,"150,000-200,000",Urban
+Research hospital,,290,15,No,9-6,No,No,"200,000+",Urban
+General hospital,133,290,,Yes,9-6,No,,"200,000+",Urban
+Research hospital,81,249,15,No,8-5,Yes,Yes,"150,000-200,000",Urban
+Community hospital,81,,12,Yes,8-5,,No,,Rural
+Research hospital,90,353,12,No,24/7,No,Yes,"150,000-200,000",Urban
+Research hospital,90,353,10,No,,No,,,Rural
+Community hospital,90,249,10,No,8-5,Yes,No,"150,000-200,000",Urban
+Research hospital,89,353,10,Yes,9-6,Yes,Yes,"150,000-200,000",Urban
+Community hospital,,290,15,No,8-5,,No,"150,000-200,000",Urban
+,,212,12,Yes,,Yes,Yes,"50,000 - 100,000",Rural
+Research hospital,133,249,12,Yes,,Yes,Yes,"50,000 - 100,000",Rural
+Community hospital,89,290,15,No,8-5,Yes,Yes,,Urban
+Children's hospital,90,353,15,No,9-6,Yes,No,"100,000 - 150,000",Rural
+Children's hospital,,212,12,No,24/7,Yes,No,"200,000+",Urban
+Children's hospital,141,290,15,,8-5,Yes,Yes,"50,000 - 100,000",Rural
+General hospital,89,353,12,Yes,8-5,No,Yes,"200,000+",Urban
+Teaching hospital,133,206,15,No,24/7,No,Yes,"200,000+",Urban
+General hospital,141,353,12,No,10-7,Yes,Yes,"150,000-200,000",Urban
+Research hospital,,,15,No,24/7,,,"50,000 - 100,000",Rural
+,81,249,21,No,8-5,Yes,No,"200,000+",Urban
+Community hospital,133,353,15,Yes,9-6,Yes,No,,Urban
+Children's hospital,,290,21,,8-5,No,,"50,000 - 100,000",Rural
+Children's hospital,141,212,10,Yes,10-7,No,No,"150,000-200,000",Urban
+Children's hospital,89,206,15,Yes,24/7,No,Yes,"50,000 - 100,000",Rural
+General hospital,89,206,15,Yes,9-6,Yes,No,"100,000 - 150,000",Rural
+Community hospital,89,,15,Yes,10-7,Yes,Yes,"200,000+",Urban
+Children's hospital,133,290,12,Yes,24/7,Yes,No,,Urban
+Children's hospital,89,249,12,Yes,9-6,No,,"150,000-200,000",Urban
+Children's hospital,141,206,21,,9-6,Yes,Yes,"200,000+",Urban
+General hospital,133,,21,Yes,24/7,No,No,"100,000 - 150,000",Rural
+Research hospital,81,212,10,Yes,8-5,Yes,No,"100,000 - 150,000",Rural
+Teaching hospital,141,,15,No,8-5,Yes,Yes,"100,000 - 150,000",Rural
+General hospital,81,290,10,No,24/7,Yes,No,"50,000 - 100,000",
+General hospital,90,290,10,No,9-6,No,,"100,000 - 150,000",Rural
+General hospital,141,290,21,,8-5,Yes,Yes,,Urban
